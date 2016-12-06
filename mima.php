@@ -1,3 +1,6 @@
+<!-- 
+----2016-12-6---- 更新
+ -->
 <?php
 include './include/common.inc.php';
 $password = 'lieshimima';
